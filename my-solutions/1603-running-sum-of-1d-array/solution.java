@@ -1,13 +1,15 @@
 class Solution {
     public int[] runningSum(int[] nums) {
-        return oneD(nums);
-        
-    }
-    static int[] oneD(int[] nums){
-        for (int i=1;i<nums.length;i++){
-            nums[i]=nums[i]+nums[i-1];
+        int[] ar = new int[nums.length];
+         
+        for(int i =nums.length-1;i>=0;i--){
+            ar[i]=sum(nums,i);
         }
-        return nums;
+        return ar;
     }
-    
+    int sum(int[] arr,int n){
+        
+        if(n==0) return arr[0];
+        return arr[n]+sum(arr,n-1);
+    }
 }
