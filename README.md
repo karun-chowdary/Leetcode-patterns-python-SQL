@@ -56,5 +56,6 @@ Each problem is organized into its own folder containing:
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
