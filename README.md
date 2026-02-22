@@ -62,6 +62,7 @@ Each problem is organized into its own folder containing:
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0595-big-countries) |
+| [1193-monthly-transactions-i](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1193-monthly-transactions-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1667-fix-names-in-a-table) |
