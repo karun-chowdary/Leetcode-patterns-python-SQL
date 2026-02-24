@@ -57,6 +57,7 @@ Each problem is organized into its own folder containing:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/0550-game-play-analysis-iv) |
