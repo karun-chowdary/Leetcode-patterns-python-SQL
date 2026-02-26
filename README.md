@@ -74,5 +74,6 @@ Each problem is organized into its own folder containing:
 | [1667-fix-names-in-a-table](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
