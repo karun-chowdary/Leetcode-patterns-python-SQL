@@ -74,6 +74,7 @@ Each problem is organized into its own folder containing:
 | [1193-monthly-transactions-i](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/karun-chowdary/Leetcode-patterns-python-SQL/tree/master/1667-fix-names-in-a-table) |
