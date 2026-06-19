@@ -21,24 +21,3 @@ WHERE (e.departmentid, e.Salary) IN(
     FROM employee 
     GROUP BY departmentid
 ) */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
